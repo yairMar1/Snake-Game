@@ -24,6 +24,3 @@ The game includes smooth snake movement, random food generation, score tracking,
 - The board is based on a 20×20 grid, using wrap-around movement via modulo.
 - Food appears at random grid positions after each successful eat.
 - If the new head overlaps with any part of the snake's body, the game restarts.
-
----
-
